@@ -3,7 +3,7 @@
     {
       "name": "make",
       "setup": "chmod u+rx newtest.?",
-      "run": "make",
+      "run": "make clean filesize",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -18,7 +18,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 5
+      "points": 1
     },
     {
       "name": "newtest2",
@@ -28,7 +28,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 5
+      "points": 1
     },
     {
       "name": "newtest3",
@@ -38,7 +38,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 5
+      "points": 1
     },
     {
       "name": "newtest4",
@@ -48,7 +48,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 5
+      "points": 1
     },
     {
       "name": "newtest5",
@@ -58,7 +58,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 5
+      "points": 1
     }
   ]
 }
